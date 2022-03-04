@@ -1,5 +1,4 @@
-# COVID-DATA-INSPECTION
-
+# COVID-DATA-INSPECTION-
 Covid data insights gathering using MySQL workbench and PowerBI
 
 Link for downloading MySQL workbench- https://dev.mysql.com/downloads/workbench/
