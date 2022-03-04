@@ -15,4 +15,6 @@ After making two different tables convert them back to .csv form, as MySQL workb
 Use the below link to convert your files from .xlsx to .csv format
 Link: https://cloudconvert.com/xlsx-to-csv
 
-After this upload the data(.csv format) in MySQL workbench and 
+After this upload the data(.csv format) in MySQL workbench and run the commands givem in Covid Data Code file.
+
+
