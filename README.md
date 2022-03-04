@@ -22,3 +22,8 @@ After this upload the data(.csv format) in MySQL workbench and run the commands 
 After creating the last view from your data go to the view section of your current database and right-click on that, from there you can download your insights tables on desktop in .csv format by clicking on the option called Table Data Export Wizard. 
 
 Then upload this data in MS Excel in a single worksheet so that from there we can easily upload the data in PowerBI for dashboard making.
+
+DASHBOARD
+
+![WhatsApp Image 2022-03-04 at 3 10 49 PM](https://user-images.githubusercontent.com/87081613/156744917-e5a4629b-d9b0-4805-864b-db42e5113c88.jpeg)
+![Keshav 1](https://user-images.githubusercontent.com/87081613/156744970-78e3ca8a-9815-4295-841a-b8465dcf09d1.png)
